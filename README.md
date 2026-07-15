@@ -1,5 +1,5 @@
 # Simulated Home Lab: HTTPS Traffic Analysis Using tcpdump
-
+A hands-on packet analysis project demonstrating HTTPS communication using tcpdump on Linux.
 ## Overview
 
 This project documents a simulated cybersecurity home lab in which live HTTPS network traffic was captured and analyzed using **tcpdump** on an Ubuntu virtual machine. The objective was to understand how secure web communication is established and maintained by observing packet-level network activity.
