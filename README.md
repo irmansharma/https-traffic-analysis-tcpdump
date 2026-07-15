@@ -42,7 +42,7 @@ The analysis focuses on identifying key networking concepts including the TCP th
 
 ## Project Files
 
-- **HTTPS Traffic Analysis Using tcpdump.pdf** – Complete technical report containing:
+- **Simulated-Home-Lab-HTTPS-Traffic-Analysis-Using-tcpdump.pdf** – Complete technical report containing:
   - Lab Setup
   - Procedure
   - Packet Capture Methodology
